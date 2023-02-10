@@ -1,0 +1,7 @@
+mysql-connector
+datetime
+ecdsa
+bech32
+cashaddress
+pysha3
+base58
